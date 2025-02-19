@@ -1,25 +1,12 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
+// NAME       :   Divya Teja Chekkera
 // Create Date:   12:52:41 02/08/2025
 // Design Name:   Synchronizer
 // Module Name:   /home/divyateja/Lab/Router_1x3/TB_sync.v
 // Project Name:  Router_1x3
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
 // Verilog Test Fixture created by ISE for module: Synchronizer
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
 ////////////////////////////////////////////////////////////////////////////////
 
 module TB_sync;
