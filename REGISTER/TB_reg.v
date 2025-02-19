@@ -1,25 +1,11 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
+// NAME       :   DIvya Teja Chekkera
 // Create Date:   12:09:21 02/17/2025
 // Design Name:   register
-// Module Name:   /home/divyateja/Lab/Router_1x3/TB_reg.v
+// Module Name:   TB_reg.v
 // Project Name:  Router_1x3
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: register
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
 ////////////////////////////////////////////////////////////////////////////////
 
 module TB_reg;
