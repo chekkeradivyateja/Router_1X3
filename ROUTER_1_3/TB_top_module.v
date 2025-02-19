@@ -1,25 +1,11 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
+// NAME       :   Divya Teja Chekkera
 // Create Date:   15:06:12 02/18/2025
 // Design Name:   router1x3
-// Module Name:   /home/divyateja/Lab/Router_1x3/TB_top_module.v
+// Module Name:   TB_top_module.v
 // Project Name:  Router_1x3
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: router1x3
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
 ////////////////////////////////////////////////////////////////////////////////
 
 module TB_top_module;
