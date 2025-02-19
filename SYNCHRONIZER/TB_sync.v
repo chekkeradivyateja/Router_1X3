@@ -4,7 +4,7 @@
 // NAME       :   Divya Teja Chekkera
 // Create Date:   12:52:41 02/08/2025
 // Design Name:   Synchronizer
-// Module Name:   /home/divyateja/Lab/Router_1x3/TB_sync.v
+// Module Name:   TB_sync.v
 // Project Name:  Router_1x3
 // Verilog Test Fixture created by ISE for module: Synchronizer
 ////////////////////////////////////////////////////////////////////////////////
