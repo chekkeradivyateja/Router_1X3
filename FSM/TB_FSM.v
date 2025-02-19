@@ -1,25 +1,11 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
+// NAME       :   Divya Teja Chekkera
 // Create Date:   10:44:32 02/12/2025
 // Design Name:   FSM_contr
-// Module Name:   /home/divyateja/Lab/Router_1x3/TB_FSM.v
+// Module Name:   TB_FSM.v
 // Project Name:  Router_1x3
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: FSM_contr
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
 ////////////////////////////////////////////////////////////////////////////////
 
 module TB_FSM;
