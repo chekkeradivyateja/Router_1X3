@@ -1,22 +1,8 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    14:13:34 02/03/2025 
-// Design Name: 
+// NAME       :    Divya Teja Chekkera
+// Create Date:    14:13:34 02/03/2025
 // Module Name:    fifo_0 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
 //////////////////////////////////////////////////////////////////////////////////
 module fifo_0(
     input clk,
