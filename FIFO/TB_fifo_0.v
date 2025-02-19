@@ -1,25 +1,11 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
+// NAME        :  Divya Teja Chekkera
 // Create Date:   11:40:12 02/04/2025
 // Design Name:   fifo_0
-// Module Name:   /home/divyateja/Lab/Router_1x3/TB_fifo_0.v
+// Module Name:   TB_fifo_0.v
 // Project Name:  Router_1x3
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: fifo_0
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
 ////////////////////////////////////////////////////////////////////////////////
 
 module TB_fifo_0;
