@@ -1,22 +1,8 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
+// NAME       :    Divya Teja Chekkera 
 // Create Date:    10:32:20 02/12/2025 
-// Design Name: 
 // Module Name:    FSM_contr 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
 //////////////////////////////////////////////////////////////////////////////////
 module FSM_contr(clock,resetn,pkt_valid,data_in,fifo_full,fifo_empty_0,fifo_empty_1,fifo_empty_2,
                   soft_reset_0,soft_reset_1,soft_reset_2,parity_done,low_packet_valid,
